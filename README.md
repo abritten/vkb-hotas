@@ -12,3 +12,6 @@ VKB HOTAS Desktop setup
 ## Star Citizen
 - Paired with [Tobii Eye Tracker 5](https://gaming.tobii.com/product/eye-tracker-5/?srsltid=AfmBOoouAlN1TuKeLzV7XhrUoyY-jWwelDJJvWeCZPXIBLF8Df3Kmk-l)
 
+![RIGHT](./Star-Citizen/profile/RIGHT.png)
+
+![LEFT](./Star-Citizen/profile/LEFT.png)
